@@ -1,6 +1,10 @@
 # 🪙 Crypto Tracker
 Live Demo: rmn-crypto-tracker.netlify.app
-A dynamic ReactJS web application that tracks real-time data on various cryptocurrencies. View live prices, ranks, market caps, and historical trends—customized to your preferences with authentication and watchlists.
+## A dynamic ReactJS web application that tracks real-time data on various cryptocurrencies. View live prices, ranks, market caps, and historical trends—customized to your preferences with authentication and watchlists.
+
+
+
+
 
 ## Features
 🔁 Real-Time Crypto Data: Fetches live updates on prices, market capitalization, and 24-hour changes via API integration.
@@ -12,6 +16,10 @@ A dynamic ReactJS web application that tracks real-time data on various cryptocu
 ⭐ Custom Watchlist: Add and remove cryptocurrencies from a personalized watchlist.
 
 🎨 Material UI Design: Clean, responsive interface with Material UI components.
+
+
+
+
 
 Tech Stack
 Frontend: ReactJS, JavaScript, HTML, CSS
@@ -27,6 +35,10 @@ CoinGecko API: For fetching cryptocurrency data
 
 Hosting: Netlify
 
+
+
+
+
 ##📷 Screenshots
 <img width="1709" height="861" alt="Screenshot 2025-07-21 105532" src="https://github.com/user-attachments/assets/ae0b5023-19ff-47e0-a5ec-1ee10382826d" />
 
@@ -34,16 +46,21 @@ Hosting: Netlify
 
 <img width="1824" height="901" alt="Screenshot 2025-07-21 105605" src="https://github.com/user-attachments/assets/8a52c508-3132-4738-b49f-38ba9041aa84" />
 
+
+
+
 ## 🔧Installation & Setup
-# Clone the repository
+Clone the repository
 git clone https://github.com/your-username/crypto-tracker.git
 cd crypto-tracker
-
-# Install dependencies
+Install dependencies
 npm install
 
-# Start the development server
+## Start the development server
 npm start
+
+
+
 
 🔑 Firebase Setup
 To enable authentication:
