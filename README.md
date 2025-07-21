@@ -28,9 +28,11 @@ CoinGecko API: For fetching cryptocurrency data
 Hosting: Netlify
 
 ##📷 Screenshots
-<img width="1666" height="883" alt="image" src="https://github.com/user-attachments/assets/8101a7b3-4533-4049-8192-7b3e0b0cae78" />
-<img width="1666" height="883" alt="Screenshot 2025-07-21 105657" src="https://github.com/user-attachments/assets/3a93bdf0-b976-4f96-b1e6-134840b0fdb0" />
+<img width="1709" height="861" alt="Screenshot 2025-07-21 105532" src="https://github.com/user-attachments/assets/ae0b5023-19ff-47e0-a5ec-1ee10382826d" />
 
+<img width="1666" height="883" alt="image" src="https://github.com/user-attachments/assets/8101a7b3-4533-4049-8192-7b3e0b0cae78" />
+
+<img width="1824" height="901" alt="Screenshot 2025-07-21 105605" src="https://github.com/user-attachments/assets/8a52c508-3132-4738-b49f-38ba9041aa84" />
 
 ## 🔧Installation & Setup
 # Clone the repository
