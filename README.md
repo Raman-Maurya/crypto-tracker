@@ -49,7 +49,7 @@ Hosting: Netlify
 
 
 ## 🔧Installation & Setup
-1. Clone the repository git clone https://github.com/your-username/crypto-tracker.git
+1. Clone the repository git clone https://github.com/Raman-Maurya/crypto-tracker.git
 2. cd crypto-tracker
 3. Install dependencies
 4. npm install
