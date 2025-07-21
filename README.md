@@ -38,7 +38,7 @@ Hosting: Netlify
 
 
 
-##📷 Screenshots
+## 📷 Screenshots
 <img width="1709" height="861" alt="Screenshot 2025-07-21 105532" src="https://github.com/user-attachments/assets/ae0b5023-19ff-47e0-a5ec-1ee10382826d" />
 
 <img width="1666" height="883" alt="image" src="https://github.com/user-attachments/assets/8101a7b3-4533-4049-8192-7b3e0b0cae78" />
