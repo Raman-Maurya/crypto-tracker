@@ -1,5 +1,4 @@
 # 🪙 Crypto Tracker
-Live Demo: rmn-crypto-tracker.netlify.app
 ## A dynamic ReactJS web application that tracks real-time data on various cryptocurrencies. View live prices, ranks, market caps, and historical trends—customized to your preferences with authentication and watchlists.
 
 
