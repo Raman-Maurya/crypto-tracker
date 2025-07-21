@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# 🪙 Crypto Tracker
+Live Demo: rmn-crypto-tracker.netlify.app
+A dynamic ReactJS web application that tracks real-time data on various cryptocurrencies. View live prices, ranks, market caps, and historical trends—customized to your preferences with authentication and watchlists.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+🔁 Real-Time Crypto Data: Fetches live updates on prices, market capitalization, and 24-hour changes via API integration.
 
-## Available Scripts
+📈 Interactive Charts: Visualize daily, monthly, and yearly trends with responsive graphs using ChartJS.
 
-In the project directory, you can run:
+🔐 User Authentication: Secure sign-in and sign-up with Firebase Authentication.
 
-### `npm start`
+⭐ Custom Watchlist: Add and remove cryptocurrencies from a personalized watchlist.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🎨 Material UI Design: Clean, responsive interface with Material UI components.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Tech Stack
+Frontend: ReactJS, JavaScript, HTML, CSS
 
-### `npm test`
+UI Framework: Material UI
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Charts: ChartJS
 
-### `npm run build`
+Backend/Auth: Firebase Authentication
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📦 API Used
+CoinGecko API: For fetching cryptocurrency data
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Hosting: Netlify
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##📷 Screenshots
+<img width="1666" height="883" alt="image" src="https://github.com/user-attachments/assets/8101a7b3-4533-4049-8192-7b3e0b0cae78" />
+<img width="1666" height="883" alt="Screenshot 2025-07-21 105657" src="https://github.com/user-attachments/assets/3a93bdf0-b976-4f96-b1e6-134840b0fdb0" />
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🔧Installation & Setup
+# Clone the repository
+git clone https://github.com/your-username/crypto-tracker.git
+cd crypto-tracker
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Install dependencies
+npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Start the development server
+npm start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🔑 Firebase Setup
+To enable authentication:
 
-## Learn More
+Create a Firebase project at firebase.google.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Enable Email/Password sign-in method.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Copy your Firebase config into the project’s .env file:
 
-### Code Splitting
+REACT_APP_FIREBASE_API_KEY=your_api_key
+REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
+REACT_APP_FIREBASE_PROJECT_ID=your_project_id
+REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+REACT_APP_FIREBASE_APP_ID=your_app_id
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+# Now you are all set to go!!🚀
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
